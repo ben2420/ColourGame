@@ -1,4 +1,4 @@
-<strong>Colour Picker Game!</strong>
+<h1>Colour Picker Game!</h1>
 
 'RGB' based colour picker game.
 
